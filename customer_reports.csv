@@ -1,0 +1,318 @@
+Timestamp,User ID,Language,User Query,Bot Response,Duration (s)
+2026-05-04 00:08:13,user_123,en,hi,"Hello! Welcome to our telecom support. How can I assist you today? Do you have a balance enquiry, need help with a recharge plan or perhaps there's an issue you'd like to report?",11.37
+2026-05-04 00:08:26,user_123,en,what brain are u using now,"I'm using the latest version of my knowledge database, which is updated regularly to provide the most accurate and helpful information. However, I don't have a physical ""brain"" but rather a complex software system designed to understand and respond to user queries like yours. Would you like help with anything else?",6.52
+2026-05-04 00:09:11,user_123,hi,Check my data balance,"आपके प्लान की विशेषता और डेटा बैलेंस को देखने के लिए, कृपया अपना मोबाइल नंबर या ऑटोप्लेन नंबर दें।",7.11
+2026-05-04 00:10:22,user_123,hi,Show recharge plans,"संचार योजनाओं की सूची। 
+
+1. डेथ स्टिक रिचार्ज प्लान - ₹499/महीना
+2. वाई-फाई 100 रिचार्ज प्लान - ₹299/महीना
+3. वाई-फाई 500 रिचार्ज प्लान - ₹599/महीना
+4. प्रीमियम रिचार्ज प्लान - ₹999/महीना",12.52
+2026-05-04 00:10:38,user_123,te,Check my data balance,"నీ డేటా బాలెన్స్ ఎంత? దీన్ని చూడడానికి, నీ ఫోన్ నంబర్, పేలుడు విభాగం మరియు సర్వీస్ సమయాన్ని తెలుపండి.",16.23
+2026-05-04 00:11:43,user_123,te,Check my data balance,"డేటా బ్యాలెన్స్ చూపించడానికి, మీరు దీని గురించి అడిగితే?
+
+1. ప్రస్తుత బ్యాలెన్స్‌ను చూపించండి.
+2. ఒక నిర్దిష్ట వన్‌గేమ్‌లో మీరు ఉపయోగించిన డేటాను తెలుసుకోవండి.
+3. మీ బ్యాలెన్స్‌ను అప్‌డేట్ చేయండి.
+
+(ఎంచుకోండి)",43.81
+2026-05-04 00:19:15,user_123,en,Check my data balance,"To check your data balance, could you please provide me with your phone number or the 10-digit mobile number associated with your account? I'll be happy to help you check your available data usage and balance.",13.92
+2026-05-04 00:21:09,user_123,en,what is my phone number,"I'd be happy to help you with that. Unfortunately, I'm a large language model and don't have direct access to your personal account information. However, I can guide you on how to find your phone number.
+
+To find your phone number, please check the following:
+
+1. Your phone or mobile device's contact list.
+2. The packaging or documentation of your new or existing phone plan.
+3. Your account statements or bills from us (if you have already made a payment).
+
+If you're still unsure about your phone number, I can also assist you in resetting it if needed. Would you like me to guide you through that process?",15.93
+2026-05-04 00:21:36,user_123,en,do u know my name,"I'd be happy to help you! Unfortunately, I'm a large language model, I don't have direct access to your personal information. However, I can try to assist you if you provide me with some details about your account or plan.
+
+Can you please tell me the phone number associated with your account?",8.58
+2026-05-04 00:22:21,user_123,en,9876543210,"Good day! You've reached [Telecom Operator]. How can I assist you today? Would you like to check your balance, recharge plans, or report an issue with your account?",5.15
+2026-05-04 00:29:39,user_123,te,hi,నమస్కారం! తల్లిదండ్రులారా? ఏ విషయంలో ఉపయోగకరమైన సహాయం అవసరం అనే దానిపై ఆశిస్తున్నారా?,29.15
+2026-05-04 00:30:30,user_123,te,Check my data balance,తప్పనిసరిగా మీరు సంబంధిత ఫోన్ నంబర్‌లో ఉన్నారా? (Please enter your phone number),11.46
+2026-05-04 00:31:06,user_123,te,9876543210,గౌరవం. నాకు సహాయం అవసరమో లేదో చెప్పినా భాగ్యవంతుడవా?,12.21
+2026-05-04 00:35:06,user_123,en,Check my data balance,"To check your data balance, I'll need to know your phone number or account ID. Alternatively, you can also check your balance on our website or mobile app by logging into your account.
+2026-06-27 13:52:17,default_user,en,Check my data balance,📊 Your current data balance is 1.5 GB out of your daily limit of 2 GB. You have 0.5 GB remaining for today. ⏰,9.82
+2026-06-27 13:53:31,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB out of the daily limit of 2 GB. You have 0.5 GB remaining for today, and your plan validity is 28 days. 📈",6.66
+2026-06-27 13:56:23,user_123,kn,ನೀವು ನನ್ನ ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಬಹುದೇ?,"Sorry, I had trouble reaching my local brain. Please try again.",45.06
+2026-06-27 13:56:44,user_123,kn,Check my data balance,ನೀವು ಇಪ್ಪಟಿಗೆ 1.5 ಜಿಬಯ (ದಿನಕ್ಕೆ 2 ಜಿಬಯ) ಬಳಸಲಾಗಿದೆ,10.39
+2026-06-27 14:13:29,pavan,kn,ನನ್ನ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ಎಷ್ಟಿದೆ?,📊 ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ 2 GB ದೈನಂದಿನ ಮಿತಿಯಲ್ಲಿ 1.5 GB ಆಗಿದೆ. ನೀವು ಇಂದಿಗೆ ಸರಿಸುಮಾರು 0.5 GB ಉಳಿದಿರುವಿರಿ 🕰️. ನೀವು ಇದೀಗ ರೀಚಾರ್ಜ್ ಮಾಡಲು ಅಥವಾ ಸ್ವಲ್ಪ ಡೇಟಾವನ್ನು ಬಳಸಲು ಬಯಸುವಿರಾ?,13.06
+2026-06-27 14:13:58,pavan,hi,मेरा रिचार्ज प्लान क्या है?,"📊 आपका वर्तमान रिचार्ज प्लान ₹449 है, जिसमें प्रतिदिन 2GB डेटा, अनलिमिटेड कॉल और 28 दिनों की वैधता अवधि शामिल है। यह योजना आपको अपने प्रियजनों के साथ जुड़े रहने और चलते-फिरते इंटरनेट का आनंद लेने की अनुमति देती है।
+
+यहाँ एक त्वरित अवलोकन है:
+
+* डेटा सीमा: 2 जीबी/दिन
+* कॉल: असीमित (स्थानीय और राष्ट्रीय)
+*वैधता: 28 दिन
+* रिचार्ज कीमत: ₹449
+
+क्या आप हमारे रिचार्ज प्लान के बारे में अधिक जानना चाहेंगे या कोई बदलाव करना चाहेंगे? 📈",12.05
+2026-06-27 22:03:19,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB out of your daily 2 GB limit. You have 0.5 GB left for today. 😊 Would you like to recharge or use up the remaining data? 
+
+Here are some recharge plans:
+
+1. ₹299: 1.5GB/day
+2. ₹479: 1.5GB/day
+3. ₹719: 2GB/day
+4. ₹449: 2GB/day (Your current plan)
+
+Please select an option by number or type 'recharge' to add more data, or 'other' for any other query.",26.57
+2026-06-27 22:09:28,user_123,en,Check my data balance,📊 Your current data balance is 1.5 GB out of the daily limit of 2 GB for your ₹449 recharge plan. You have 0.5 GB left to use today. 📈 Would you like to know more about your recharge plans or check your billing status?,15.25
+2026-06-27 22:35:39,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for today. You have used up 0.5 GB so far. 📈
+
+Would you like to recharge or check anything else? 
+
+ Options:
+1. Checking data balance (just checked)
+2. Showing recharge plans
+3. Filing network complaints
+4. Checking billing status
+5. Connecting to human support",22.99
+2026-06-27 22:39:41,user_123,kn,hello,ನಮಸ್ತೆ ಪವನ್! 😊 Airtel ಗ್ರಾಹಕ ಬೆಂಬಲಕ್ಕೆ ಸುಸ್ವಾಗತ. ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?,7.85
+2026-06-27 22:39:53,user_123,kn,Check my data balance,"📊 ನಿಮ್ಮ ಅನುಮತಿಸಲಾದ 2.0 GB ಯ ಮಿತಿಯಲ್ಲಿ ದಿನಕ್ಕೆ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ 1.5 GB ಆಗಿದೆ. ಯಾವುದೇ ಚಿಂತೆಯಿಲ್ಲದೆ ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಸೇವೆಗಳನ್ನು ಬ್ರೌಸ್ ಮಾಡಲು, ಸ್ಟ್ರೀಮ್ ಮಾಡಲು ಮತ್ತು ಬಳಸಲು ನೀವು ಸಾಕಷ್ಟು ಡೇಟಾವನ್ನು ಹೊಂದಿದ್ದೀರಿ! 🌐 ನಿಮಗೆ ಬೇರೆ ಯಾವುದಾದರೂ ಸಹಾಯ ಬೇಕೇ?",11.67
+2026-06-27 22:40:56,user_123,kn,Show recharge plans,"📊 ನಮ್ಮ ಪ್ರಸ್ತುತ ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳು ಇಲ್ಲಿವೆ:
+
+1. ₹299: 1.5GB/ದಿನ, ₹479: 1.5GB/ದಿನ, ₹719: 2GB/ದಿನ, ₹449: 2GB/ದಿನ (ನಿಮ್ಮ ಯೋಜನೆ: ₹449 - ₹449)
+2. ₹299 (ದೈನಂದಿನ): 500MB/ದಿನ, ₹399 (ಸಾಪ್ತಾಹಿಕ): 1.5GB/ವಾರ
+3. ₹499 (ಮಾಸಿಕ): 6GB/ತಿಂಗಳು, ₹1499 (ದೊಡ್ಡ ಬಂಡಲ್): 100GB/ತಿಂಗಳು
+
+ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಯೋಜನೆಯನ್ನು ರೀಚಾರ್ಜ್ ಮಾಡಲು ಅಥವಾ ಬದಲಾಯಿಸಲು ನೀವು ಬಯಸುವಿರಾ? 📊",20.33
+2026-06-27 22:41:13,user_123,kn,ನಮಸ್ಕಾರ,"ನಮಸ್ತೆ ಪವನ್! 🙏 ನಾನು ಇಂದು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನಿಮ್ಮ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್, ರೀಚಾರ್ಜ್ ಯೋಜನೆ ಆಯ್ಕೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಅಥವಾ ಬಹುಶಃ ನೆಟ್‌ವರ್ಕ್ ದೂರನ್ನು ಸಲ್ಲಿಸಲು ನೀವು ಬಯಸುವಿರಾ? ಅಥವಾ ನಿಮ್ಮ ಬಿಲ್ ಮೊತ್ತದ ಬಗ್ಗೆ ತಿಳಿದುಕೊಳ್ಳಲು ನೀವು ಬಯಸುತ್ತೀರಾ? ಕೆಳಗಿನ ಪಟ್ಟಿಯಿಂದ ಆಯ್ಕೆಯನ್ನು ಆರಿಸುವ ಮೂಲಕ ನನಗೆ ತಿಳಿಸಿ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ
+3. ನೆಟ್ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ
+
+(ದಯವಿಟ್ಟು ನಿಮ್ಮ ಆದ್ಯತೆಯ ಆಯ್ಕೆಯ ಸಂಖ್ಯೆಯೊಂದಿಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಿ)",17.70
+2026-06-27 22:51:58,user_123,en,Check my data balance,📊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for today. You have 500 MB of data remaining before you reach your daily cap. 📱,14.67
+2026-06-27 23:04:54,user_123,en,Show recharge plans,"📈 Here are our current recharge plans:
+
+1. ₹299 - 1.5GB/day (Best for moderate data users)
+2. ₹479 - 1.5GB/day (Ideal for heavy data users)
+3. ₹719 - 2GB/day (For those who want more data)
+4. ₹449 - 2GB/day (Your current plan, Pavan! 😊)
+
+Which recharge plan would you like to opt for? 📱",9.76
+2026-06-27 23:05:10,user_123,en,Check my data balance,😊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for today's plan validity. You have 0.5 GB remaining before you reach your daily data cap 📊,1.96
+2026-06-27 23:05:18,user_123,en,Show recharge plans,"📈 Recharge Plans available for ₹449 Plan:
+
+1. ₹299 - 1GB/day data, Unlimited Calls, ₹0 extra charge 📱 (1.5GB daily limit)
+2. ₹479 - 1.5GB/day data, Unlimited Calls, ₹30 extra charge 📱
+3. ₹719 - 2GB/day data, Unlimited Calls, ₹270 extra charge 💸
+4. ₹449 - **Your Current Plan** (2GB/day data), Unlimited Calls, ₹0 extra charge 🎉
+
+Please select an option by typing '1', '2', '3', or '4' to view the chosen plan's details.
+
+(Note: Please respond with a number, e.g., ""1"")",5.09
+2026-06-27 23:05:45,user_123,en,Show recharge plans,"**Recharge Plans for ₹449 Plan**
+
+Here are some exciting recharge plans available for you:
+
+1. **₹299**: Get 1.5GB/day data, Unlimited Calls, and other benefits.
+2. **₹479**: Enjoy 1.5GB/day data, Unlimited Calls, and extra perks like 100 SMS/day and 100 minutes/day.
+3. **₹719**: Experience 2GB/day data, Unlimited Calls, and additional benefits like 200 SMS/day and 300 minutes/day.
+4. **₹449**: Your current plan! Get 2GB/day data, Unlimited Calls, and other standard benefits.
+
+Which recharge plan would you like to choose? (Type '1' for ₹299, '2' for ₹479, '3' for ₹719, or '4' for your current plan)",5.47
+2026-06-27 23:05:57,user_123,hi,Check my data balance,📊 आपका वर्तमान डेटा बैलेंस आपकी दैनिक सीमा 2.0 जीबी में से 1.5 जीबी है। कल दैनिक सीमा रीसेट होने से पहले शेष 0.5 जीबी का उपयोग करने के लिए आपके पास 24 घंटे बचे हैं। 📈,3.22
+2026-06-27 23:06:23,user_123,kn,Check my bill,"ನಾನು ನಿಮಗಾಗಿ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಬಿಲ್ ಅನ್ನು ಪರಿಶೀಲಿಸಬಹುದು.
+
+**ನಿಮ್ಮ ಬಿಲ್ ವಿವರಗಳು:**
+
+* **ಕಡಿಮೆ ದಿನಾಂಕ:** N/A (ಅನ್ವಯಿಸುವುದಿಲ್ಲ)
+* **ಪ್ರಸ್ತುತ ಬಾಕಿ ಮೊತ್ತ:** ₹0.00
+* **ಹಿಂದಿನ ಬಿಲ್ ಮೊತ್ತ:** ₹450.00 (ಸಂಪೂರ್ಣವಾಗಿ ಪಾವತಿಸಲಾಗಿದೆ)
+* **ಮುಂದಿನ ಬಿಲ್ ಬಾಕಿ ದಿನಾಂಕ:** N/A (ಅನ್ವಯಿಸುವುದಿಲ್ಲ)
+
+ನಿಮ್ಮ ಖಾತೆಯು ಪ್ರಸ್ತುತವಾಗಿ ನವೀಕೃತವಾಗಿದೆ. ಆದಾಗ್ಯೂ, ನಿಮ್ಮ ಮುಂದಿನ ಬಿಲ್ [ಮುಂದಿನ ಬಾಕಿ ದಿನಾಂಕವನ್ನು ಸೇರಿಸಿ] ರಂದು ಬಾಕಿಯಿರುತ್ತದೆ ಮತ್ತು ಮೊತ್ತವು ₹450.00 ಆಗಿರುತ್ತದೆ.
+
+ನೀವು ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ಬಯಸುವಿರಾ ಅಥವಾ ಬೇರೆ ಯಾವುದನ್ನಾದರೂ ಮುಂದುವರಿಸಲು ಬಯಸುವಿರಾ?",5.83
+2026-06-27 23:06:48,user_123,kn,Check my data balance,📊 ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ 1.5 GB ಆಗಿದೆ (ನಿಮ್ಮ ದೈನಂದಿನ ಮಿತಿ 2.0 GB ಯಲ್ಲಿ). ನಿಮ್ಮ ಬಳಿ ದಿನಕ್ಕೆ 0.5 GB ಡೇಟಾ ಉಳಿದಿದೆ! 📱,3.03
+2026-06-27 23:07:21,user_123,kn,ನಮಸ್ಕಾರ,😊 ನಮಸ್ತೆ ಪವನ್! ಏರ್‌ಟೆಲ್ ಗ್ರಾಹಕ ಬೆಂಬಲಕ್ಕೆ ಸುಸ್ವಾಗತ. ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು?,2.17
+2026-06-27 23:07:40,user_123,en,Check my data balance,📊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB. You have 28 days of validity on your ₹449 recharge plan. ⏰,1.69
+2026-06-27 23:12:33,user_123,en,hello,Namaste Pavan! 🙏 Welcome! I'm here to help you with any queries or issues related to your Airtel account. What can I assist you with today? 😊,3.53
+2026-06-27 23:18:09,default_user,en,Check my data balance,📊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for the ₹449 Recharge Plan. You have 48 hours left on your plan validity. 🕰️,4.72
+2026-06-27 23:28:08,user_123,en,Check my data balance,"📊 Your current data balance is: 1.5 GB (out of 2.0 GB daily limit) remaining for today.
+
+Would you like to recharge or use your remaining data today? 🤔",5.31
+2026-06-27 23:29:41,user_123,en,Can you please check my balance?,"📊 Your current data balance is 1.5 GB, out of your daily limit of 2.0 GB. 💻 You have 0.5 GB remaining to use today. 📈",1.84
+2026-06-27 23:29:51,user_123,en,Not a violent statement.,"Hello Pavan! 😊 How can I assist you today? Do you have any questions about your Airtel plan, or perhaps need help with something related to your phone? 📱",1.69
+2026-06-27 23:39:01,user_123,kn,نوبㄒ people,"ನನಗೆ ಅದು ಅಷ್ಟಾಗಿ ಅರ್ಥವಾಗಲಿಲ್ಲ! ದಯವಿಟ್ಟು ಪುನಃ ಬರೆಯಬಹುದೇ ಅಥವಾ ಜೋರಾಗಿ ಮಾತನಾಡಬಹುದೇ? ನಾನು ಸಹಾಯ ಮಾಡಲು ಇಲ್ಲಿದ್ದೇನೆ, ಆದರೆ ನಾನು ಪಠ್ಯ-ಆಧಾರಿತ AI ಸಹಾಯಕ ಮತ್ತು ಇಂಗ್ಲಿಷ್ ಹೊರತುಪಡಿಸಿ ಬೇರೆ ಭಾಷೆಗಳನ್ನು ಅರ್ಥಮಾಡಿಕೊಳ್ಳದಿರಬಹುದು.
+
+ಹೇಗಾದರೂ, ನೀವು ""Noble people"" ಎಂಬ ಪದಗುಚ್ಛವನ್ನು ಉಲ್ಲೇಖಿಸುತ್ತಿದ್ದರೆ ಅದು ಹಿಂದಿಯಲ್ಲಿ ""ಉದಾತ್ತ ಜನರು"", ನಾನು ಹಿಂದಿಯಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಸಂತೋಷಪಡುತ್ತೇನೆ!
+
+ನಾನು ಆಪಕಿ ಕಿಸಿ ಭಿ ಸಮಸ್ಯೆ ಕೋ ಹಲ ಕರನೇ ನಾನು ಮಾಡದ ಕರ್ ಸಕತಾ ಹೂಂ? (ಕ್ಯಾ ಮೈಂ ಆಪ್ಕಿ ಕಿಸೀ ಭೀ ಸಮಸ್ಯ ಕೋ ಹಲ್ ಕರ್ನೇ ಮೇ ಮದದ್ ಕರ್ ಸಕ್ತಾ ಹೂಂ?)",10.13
+2026-06-27 23:39:23,user_123,kn,நண்ணும் பாலின் சண்டும் திலிச்சிக்கு,"😊 ಹಾಯ್ ಪವನ್! ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? 
+
+ದಯವಿಟ್ಟು ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 📊
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 📱
+3. ನೆಟ್‌ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು ⚠️
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 💸
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ 🎧",4.39
+2026-06-27 23:39:45,user_123,kn,Namaskaram,"ನಮಸ್ಕಾರಂ! 😊 ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು, ಪವನ್? ನೀವು ನಮ್ಮೊಂದಿಗೆ ರೀಚಾರ್ಜ್ ಯೋಜನೆಯನ್ನು ಹೊಂದಿದ್ದೀರಿ. ನೀವು ಏನು ಮಾಡಲು ಬಯಸುತ್ತೀರಿ? 
+
+ ಆಯ್ಕೆಗಳು:
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 📊
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 📱
+3. ನೆಟ್‌ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು ⚠️
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 💸
+
+ದಯವಿಟ್ಟು ಅನುಗುಣವಾದ ಸಂಖ್ಯೆಯನ್ನು ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ (ಉದಾ., 1).",5.21
+2026-06-27 23:40:00,user_123,kn,Recharge Mardi,"📱 ನಮೋ ರೇ! ಪವನ್, ನೀವು ಈಗ ನಿಮ್ಮ ₹449 ಪ್ಲಾನ್ ಅನ್ನು ರೀಚಾರ್ಜ್ ಮಾಡಬಹುದು. ಇಲ್ಲಿ ಕೆಲವು ಆಯ್ಕೆಗಳಿವೆ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 📊
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 📱
+3. ನೆಟ್‌ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು ⚠️
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 💸
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ 🎧
+
+ದಯವಿಟ್ಟು ಅನುಗುಣವಾದ ಸಂಖ್ಯೆಯನ್ನು ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ (ಉದಾಹರಣೆಗೆ, ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲು ""1"").",5.07
+2026-06-27 23:40:11,user_123,kn,Nanna Balance Anu Parishi Lisi,"ನನ್ನ ಬ್ಯಾಲೆನ್ಸ್ ಅನು ಪರಿಶಿ ಲಿಸಿ? 📊 (ನಿಮ್ಮ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್?) - ₹1,50,000 MB (ನಿಮ್ಮ ದೈನಂದಿನ ಮಿತಿಯಲ್ಲಿ 1.5 GB ಉಳಿದಿದೆ) 🤩",3.60
+2026-06-27 23:40:34,user_123,kn,Check my data balance,"📊 ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ನಿಮ್ಮ ದೈನಂದಿನ ಮಿತಿಯಾದ 2.0 GB ಯಲ್ಲಿ 1.5 GB ಆಗಿದೆ. ನೀವು ದಿನಕ್ಕೆ ಸಾಕಷ್ಟು ಡೇಟಾವನ್ನು ಹೊಂದಿದ್ದೀರಿ, ಆದರೆ ನವೀಕರಿಸಲು ಯಾವುದೇ ಸಮಯದಲ್ಲಿ ನಿಮ್ಮ ಉಳಿದಿರುವ ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ನೀವು ಪರಿಶೀಲಿಸಬಹುದು! 📱 ನಿಮಗೆ ಬೇರೆ ಯಾವುದಾದರೂ ಸಹಾಯ ಬೇಕೇ?",3.41
+2026-06-27 23:57:01,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB for the day, out of your daily limit of 2.0 GB. You have used 0.5 GB so far today. 📱",5.96
+2026-06-28 00:22:18,user_123,en,Check my data balance,📊 Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for this recharge plan. You have 28 days of validity left. 💻,8.19
+2026-06-28 00:22:39,user_123,kn,donner,"ನಮಸ್ಕಾರ! ನಾನು TeleBot AI, ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಟೆಲಿಕಾಂ ಸಹಾಯಕ. ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? 
+
+**ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಬಾಕಿ:** 
+ಇಂದು ಉಳಿದಿರುವ ಡೇಟಾ: 1.5 GB (2.0 GB ದೈನಂದಿನ ಮಿತಿಯಲ್ಲಿ)
+
+ದಯವಿಟ್ಟು ಕೆಳಗಿನ ಆಯ್ಕೆಗಳಲ್ಲಿ ಒಂದನ್ನು ಪ್ರತಿಕ್ರಿಯಿಸಿ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 📊
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 📱
+3. ನೆಟ್‌ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು ⚠️
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 💸
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಿ 🎧",8.04
+2026-06-28 00:22:59,user_123,kn,د�طب Bhall internal,"ಕ್ಷಮಿಸಿ, ಆದರೆ ನನಗೆ ಅದು ಅರ್ಥವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಪುನರಾವರ್ತಿಸಬಹುದೇ ಅಥವಾ ಬೇರೆ ರೀತಿಯಲ್ಲಿ ಮತ್ತೆ ಕೇಳಬಹುದೇ? ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ನಾನು ನನ್ನ ಕೈಲಾದಷ್ಟು ಮಾಡುತ್ತೇನೆ.
+
+(ಗಮನಿಸಿ: ನಮ್ಮ ಡೀಫಾಲ್ಟ್ ಭಾಷೆಯ ಸೆಟ್ಟಿಂಗ್ ಪ್ರಕಾರ ನಾನು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಪ್ರತಿಕ್ರಿಯಿಸುತ್ತೇನೆ)
+
+ನೀವು ಮತ್ತೆ ಕೇಳಲು ಪ್ರಯತ್ನಿಸಲು ಬಯಸುವಿರಾ ಅಥವಾ ನಿಮ್ಮ ಆದ್ಯತೆಯ ಭಾಷೆಯಾಗಿದ್ದರೆ ನಾವು ಹಿಂದಿ, ತೆಲುಗು ಅಥವಾ ಕನ್ನಡದಲ್ಲಿ ಹೇಗೆ ಸಂವಹನ ನಡೆಸಬಹುದು ಎಂಬುದನ್ನು ವಿವರಿಸಲು ನೀವು ಬಯಸುವಿರಾ?",5.90
+2026-06-28 00:23:38,user_123,en,Check my data balance,"📊 Your current data balance is: 1.5 GB (out of the daily limit of 2.0 GB).
+
+You have enough data to browse, stream, or make calls for today! 📱 If you need more data or want to check your remaining data throughout the day, feel free to ask.",2.50
+2026-06-28 00:24:18,user_123,kn,2 Rannu Bharata College,"ನಮಸ್ಕಾರಂ! 😊 
+
+ನೀವು ರನ್ನು ಭಾರತ ಕಾಲೇಜಿನಿಂದ ಕರೆ ಮಾಡುತ್ತಿದ್ದೀರಿ ಎಂದು ನಾನು ನೋಡುತ್ತೇನೆ. ಇಂದು ನಾನು ನಿಮಗೆ ಹೇಗೆ ಸಹಾಯ ಮಾಡಬಹುದು? ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಪ್ಲಾನ್ ಕುರಿತು ನೀವು ಯಾವುದೇ ಪ್ರಶ್ನೆಗಳನ್ನು ಹೊಂದಿದ್ದೀರಾ ಅಥವಾ ನಿಮ್ಮ ಬಿಲ್ಲಿಂಗ್ ಅಥವಾ ನೆಟ್‌ವರ್ಕ್ ಅನುಭವಕ್ಕೆ ಸಂಬಂಧಿಸಿದಂತೆ ಕೆಲವು ಕಾಳಜಿಗಳನ್ನು ಹೊಂದಿದ್ದೀರಾ? ಅಥವಾ ನಮ್ಮ ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳ ಕುರಿತು ನೀವು ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ಬಯಸುತ್ತೀರಾ? ದಯವಿಟ್ಟು ಅನುಗುಣವಾದ ಸಂಖ್ಯೆಯನ್ನು ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 📊
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 📱
+3. ನೆಟ್‌ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು ⚠️
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 💸
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ 🎧",5.89
+2026-06-28 00:37:00,user_123,kn,بائلنس پرشیلیسی,"ಮಿತ್ರ, ಆಪಕಿ ಡೇಟಾ ಬೈಲೆನ್ಸ್ ವರ್ತಮಾನದಲ್ಲಿ 1.5 ಗಿಗಾಬೈಟ್ ಮತ್ತು ಆಪಕೆ ದೈನಿಕ 2.0 ಗಿಗಾಬೈಟ್. 📊
+
+ಆಪಕೆ ಪಾಸ್ ಅಭಿ ಭಿ 0.5 ಗಿಗಾಬೈಟ್ ಕಾ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ಇದೆ.",11.54
+2026-06-28 00:45:50,user_123,kn,ಉಸ್ಯ�� watermelon skate watermelon. ಇ಩ರಿ constituency like to Valentine's detalises.,"🤔 ಸ್ವಲ್ಪ ಭಾಷೆಯ ಮಿಶ್ರಣ ಇರಬಹುದು ಎಂದು ನಾನು ಭಾವಿಸುತ್ತೇನೆ! ನೀವು ಇಂಗ್ಲಿಷ್ ಅಥವಾ ಹಿಂದಿಯಲ್ಲಿಲ್ಲದ ಕೆಲವು ಪದಗಳನ್ನು ಹಂಚಿಕೊಂಡಿರುವಂತೆ ತೋರುತ್ತಿದೆ. ಆದರೂ ಚಿಂತೆಯಿಲ್ಲ!
+
+ನಾನು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸೋಣ. ನೀವು ಪ್ರೇಮಿಗಳ ದಿನದ ಯೋಜನೆಗಳು ಅಥವಾ ಇನ್ನೇನಾದರೂ ಕುರಿತು ಮಾತನಾಡಲು ಬಯಸಿದರೆ, ಕೇಳಲು ಮತ್ತು ಸಹಾಯ ಮಾಡಲು ನಾನು ಇಲ್ಲಿದ್ದೇನೆ. ನಿಮ್ಮ ಮನಸ್ಸಿನಲ್ಲಿ ಏನಿದೆ? 💌",11.61
+2026-06-28 00:46:26,user_123,en,Check my data balance,"📊 Your current data balance is:
+
+**Data Remaining:** 1.5 GB (out of your daily limit of 2.0 GB)
+**Date:** Today's Date (will be displayed)
+
+Would you like to recharge or use up some data today? 📱",2.22
+2026-06-28 00:46:51,user_123,te,Check my data balance,"📊 మీ ప్రస్తుత డేటా బ్యాలెన్స్:
+
+**ఈరోజు:** 1.5 GB (రోజువారీ పరిమితి 2.0 GBలో)
+**మిగిలిన బ్యాలెన్స్:** 1.5 GB
+**రోజువారీ పరిమితి:** 2.0 GB/రోజు
+
+దయచేసి మీరు రీఛార్జ్ చేయాలనుకుంటున్నారా లేదా మీ బ్యాలెన్స్‌ని మళ్లీ తనిఖీ చేయాలనుకుంటే నాకు తెలియజేయండి! 📱",4.57
+2026-06-28 00:47:24,user_123,hi,Check my data balance,"📊 आपका वर्तमान डेटा शेष 1.5 जीबी है, जो आज के लिए आपकी 2.0 जीबी की दैनिक सीमा से बाहर है। 😊 दिन के अंत में दैनिक सीमा समाप्त होने से पहले आपके पास उपयोग करने के लिए 0.5 जीबी डेटा शेष है। क्या आप रिचार्ज करना चाहेंगे या कोई अन्य पूछताछ करना चाहेंगे?",3.74
+2026-06-28 00:50:01,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB out of the daily limit of 2.0 GB. You have 0.5 GB remaining for today. 📈
+
+Would you like to recharge your plan or check something else? Here are some options:
+
+1. Checking data balance 📊
+2. Showing recharge plans 📱
+3. Filing network complaints ⚠️
+4. Checking billing status 💸
+5. Connecting to human support 🎧",3.71
+2026-06-28 00:51:03,user_123,kn,ಮರ್ಥಳಯದఉ ಯದಲ್ taxpayers ಅಬೈ ದ ಅಆ್ ‑‑ Wen junction,"ನೀವು ಹೇಳಿದ್ದು ನನಗೆ ಸರಿಯಾಗಿ ಅರ್ಥವಾಗಲಿಲ್ಲ, ಸರ್/ಮೇಡಂ. ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಶ್ನೆಯನ್ನು ಪುನಃ ಬರೆಯಬಹುದೇ ಅಥವಾ ಪುನರಾವರ್ತಿಸಬಹುದೇ, ಹಾಗಾಗಿ ನಾನು ನಿಮಗೆ ಉತ್ತಮವಾಗಿ ಸಹಾಯ ಮಾಡಬಹುದೇ? 
+
+(ನಿಮಗೆ ಸ್ಪಷ್ಟವಾಗಿ ಮಾತನಾಡಲು ಸಮಸ್ಯೆ ಇದ್ದರೆ, ನಾನು ಮೊದಲು ಒದಗಿಸಿದ ಸಂಖ್ಯೆಯ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಲು ಹಿಂಜರಿಯಬೇಡಿ)
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ 
+3. ನೆಟ್ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು 
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ 
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ",5.07
+2026-06-28 00:51:44,user_123,te,Check my data balance,📊 మీ ₹449 రీఛార్జ్ ప్లాన్ కోసం రోజువారీ పరిమితి 2.0 GBలో మీ ప్రస్తుత డేటా బ్యాలెన్స్ 1.5 GB. మీ మిగిలిన డేటాను ఉపయోగించడానికి మీకు 24 గంటలు మిగిలి ఉన్నాయి. 😊,2.72
+2026-06-28 00:53:00,user_123,en,Check my data balance,"📊 Your current data balance is 1.5 GB, which is out of your daily limit of 2.0 GB for today. You have 0.5 GB left to use before reaching the daily cap. 😊",1.84
+2026-06-28 00:56:43,user_123,en,Can you please check my balance?,Your current data remaining for today is 1.5 GB out of the daily limit of 2.0 GB. You have a total balance of 10.0 GB (remaining) + 100.0 GB (total balance). Your account balance is ₹449.00.,2.65
+2026-06-28 00:57:23,user_123,te,"నేహర్, కున్",నమస్కారం మిస్టర్ కున్. ఆరోగ్య రీఛార్జ్ ప్లాన్ కి సమాచారం చేతవ్నా కారో.,2.91
+2026-06-28 00:57:51,user_123,te,"గ్న్, సఉబమ్న౪్న్ wished to match against me until permanent if it thus goes down","శుభం, భౌతిక దూరం ఉన్నప్పటికీ మీ ప్రియమైన వారితో సంబంధాన్ని కొనసాగించడం గురించి మీ ఆందోళనను నేను అర్థం చేసుకున్నాను. మీ భాగస్వామితో సన్నిహితంగా ఉండటానికి Airtel అనేక ఎంపికలను అందిస్తుంది:
+
+1. **వాయిస్ కాల్**: మా అపరిమిత కాల్‌ల ప్రయోజనంతో, అదనపు ఛార్జీల గురించి చింతించకుండా మీరు సుబామ్నకు కావలసినన్ని వాయిస్ కాల్‌లు చేయవచ్చు.
+2. **డేటా వినియోగం**: మీరు మీ 2GB రోజువారీ పరిమితిలో మిగిలిన 500MB డేటాను సందేశాలు, ఇమెయిల్‌లు పంపడానికి లేదా Subamnaతో ఫైల్‌లను షేర్ చేయడానికి ఉపయోగించవచ్చు.
+3. **రీఛార్జ్ ప్లాన్‌లు**: 2GB/రోజు డేటా మరియు అపరిమిత కాల్‌లను అందించే మా ₹719 ప్లాన్ వంటి మరిన్ని డేటా మరియు వాయిస్ ప్రయోజనాలను అందించే ప్లాన్‌కి అప్‌గ్రేడ్ చేయడాన్ని పరిగణించండి.
+
+మీ ప్రస్తుత ప్లాన్ కోసం అందుబాటులో ఉన్న రీఛార్జ్ ప్లాన్‌లను నేను మీకు చూపించాలనుకుంటున్నారా?",7.00
+2026-06-28 00:58:17,user_123,kn,"ಭ್ನ್ನು parrot ಣ್ರಾೆ, ಪೇವногರ","ನಮಸ್ತೇ ಭ್ನು ಗಿಳಿ ನ್ರೇ, ಪೆವನೋಗ್ರಾ. ಮೇನ್ ಟೆಲಿಬಾಟ್ ಎಐ ಹೂನ್, ಆಪ್ಕೆ ಏರ್‌ಟೆಲ್ ರೀಚಾರ್ಜ್ ಔರ್ ನೆಟ್‌ವರ್ಕ್ ಸಮಸ್ಯಾಂ ಕೆ ಲಿಯೇ ಅಪ್ಲಬ್ಧ್ ಹೂನ್. ಕ್ಯಾ ಮೈಂ ಆಪ್ಕಿ ಮದದ್ ಕರ್ ಸಕ್ತಾ ಹೂಂ?",3.93
+2026-06-28 00:59:01,user_123,kn,ರನыс ಡನbingರ ತ್ನ ಠಲ್ನಿ ನನೆ,"ನಿಮ್ಮ ಪ್ರಶ್ನೆ ನನಗೆ ಅರ್ಥವಾಗಲಿಲ್ಲ. ದಯವಿಟ್ಟು ಸ್ಪಷ್ಟವಾಗಿ ಮಾತನಾಡಿ ಅಥವಾ ಅದನ್ನು ಟೈಪ್ ಮಾಡಿ, ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಪ್ರಶ್ನೆಯೊಂದಿಗೆ ನಿಮಗೆ ಸಹಾಯ ಮಾಡಲು ನಾನು ನನ್ನ ಕೈಲಾದಷ್ಟು ಮಾಡುತ್ತೇನೆ. 
+
+(ಗಮನಿಸಿ: ಬಳಕೆದಾರರ ಸಂದೇಶವನ್ನು ಇಂಗ್ಲಿಷ್‌ಗೆ ಅನುವಾದಿಸಲಾಗಿದೆ - ""ರಾಣಿಸ್ ಡನ್‌ಬಿಂಗ್ರಾ ತ್ನಾ ಥಲ್ನಿ ನಾನೆ"" ಎಂದರೆ ""ಹಲೋ ಹೇಗಿದ್ದೀರಿ"")",8.60
+2026-06-28 01:10:04,user_123,kn,ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ,ನಿಮ್ಮ ಪ್ರಸ್ತುತ ದೈನಂದಿನ ಡೇಟಾ ಮಿತಿ 2.0 GB ಆಗಿದೆ. ನಿಮ್ಮ ₹449 ರೀಚಾರ್ಜ್ ಪ್ಲಾನ್‌ನಲ್ಲಿ ದಿನಕ್ಕೆ 1.5 GB ಉಳಿದಿದೆ.,14.31
+2026-06-28 01:10:29,user_123,kn,ನನ್ನ ನೆಟ್ವರ್ಕ್ ಸರಿಯಾಗಿ ಬರುತ್ತಿಲ್ಲ ನಾನು ಕಂಪ್ಲೇಟ್ ಅನ್ನು ದರ್ಜೆ ಮಾಡಿ,"ನೀವು ನೆಟ್‌ವರ್ಕ್ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿರುವಿರಿ ಎಂದು ಕೇಳಲು ಕ್ಷಮಿಸಿ, ಪವನ್. ನಿಮಗೆ ಉತ್ತಮವಾಗಿ ಸಹಾಯ ಮಾಡಲು, ನೀವು ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಯ ಕುರಿತು ದಯವಿಟ್ಟು ನನಗೆ ಇನ್ನಷ್ಟು ಹೇಳಬಲ್ಲಿರಾ? ನಿರ್ದಿಷ್ಟವಾಗಿ ಯಾವುದು ಸರಿಯಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿಲ್ಲ - ಕರೆಗಳು, ಪಠ್ಯಗಳು, ಡೇಟಾ ಅಥವಾ ಇವೆಲ್ಲವೂ? ಅಲ್ಲದೆ, ಸಮಸ್ಯೆ ಸಂಭವಿಸಿದಾಗ ನೀವು ಯಾವುದೇ ದೋಷ ಸಂದೇಶಗಳು ಅಥವಾ ಕೋಡ್‌ಗಳನ್ನು ಗಮನಿಸಿದ್ದೀರಾ? ನಿಮ್ಮ ಸಮಸ್ಯೆಗೆ ಹೆಚ್ಚು ನಿಖರವಾದ ಪರಿಹಾರವನ್ನು ಒದಗಿಸಲು ಇದು ನನಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",4.38
+2026-06-28 01:11:15,user_123,kn,ನನಗೆ ಕರೆ ಮಾಡಲು ತೊಂದರೆ ಉಂಟಾಗುತ್ತಿದೆ,"ಪವನ್, ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಸಂಖ್ಯೆಗೆ ಕರೆ ಮಾಡುವಲ್ಲಿ ನೀವು ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸುತ್ತಿರುವಿರಿ ಎಂದು ಕೇಳಲು ಕ್ಷಮಿಸಿ. ನೀವು ಎದುರಿಸುತ್ತಿರುವ ಸಮಸ್ಯೆಯ ಕುರಿತು ದಯವಿಟ್ಟು ನನಗೆ ಇನ್ನಷ್ಟು ಹೇಳಬಲ್ಲಿರಾ? ಉದಾಹರಣೆಗೆ, ಅದು ರಿಂಗ್ ಆಗುತ್ತಿಲ್ಲವೇ ಅಥವಾ ಕೆಲವು ಸೆಕೆಂಡುಗಳ ನಂತರ ಕರೆ ಬೀಳುತ್ತಿದೆಯೇ? ಅಲ್ಲದೆ, ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ಅಥವಾ ನಿಮ್ಮ ಪ್ರದೇಶದಲ್ಲಿ ಯಾವುದೇ ಸಿಗ್ನಲ್ ಸಾಮರ್ಥ್ಯದ ಸಮಸ್ಯೆಗಳಿವೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಲು ನೀವು ಪ್ರಯತ್ನಿಸಿದ್ದೀರಾ?",4.30
+2026-06-28 01:11:56,user_123,kn,ನನಗೆ ಸಿಗ್ನಲ್ ನಲ್ಲಿ ಏನು ತೊಂದರೆ ಇಲ್ಲ ನನಗೆ ನಿಮ್ಮ ಮ್ಯಾನೇಜರ್ ಅನ್ನು ಕನೆಕ್ಟ್ ಮಾಡಿ,"ಅನಾನುಕೂಲತೆಗಾಗಿ ನನ್ನ ಕ್ಷಮೆಯಾಚಿಸುತ್ತೇನೆ, ಪವನ್. ಆದಾಗ್ಯೂ, ನನ್ನ ಸಾಮರ್ಥ್ಯಗಳು ನಿಮ್ಮನ್ನು ನೇರವಾಗಿ ಮಾನವ ನಿರ್ವಾಹಕರೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಲು ಅಥವಾ ತಕ್ಷಣವೇ ಸಮಸ್ಯೆಗಳನ್ನು ಉಲ್ಬಣಗೊಳಿಸುವುದಕ್ಕೆ ವಿಸ್ತರಿಸುವುದಿಲ್ಲ.
+
+ಆದರೆ ದೂರು ಸಲ್ಲಿಸಲು ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಲ್ಲೆ. ನೀವು ಬಯಸಿದರೆ, ನಾನು ಅಣಕು ಟಿಕೆಟ್ ಐಡಿಯನ್ನು ಒದಗಿಸಬಹುದು ಮತ್ತು ನಿಮ್ಮ ಸಿಗ್ನಲ್ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡುವ ಪ್ರಕ್ರಿಯೆಯ ಮೂಲಕ ನಿಮಗೆ ಮಾರ್ಗದರ್ಶನ ನೀಡಬಹುದು. ನಾನು ಅದನ್ನು ಮುಂದುವರಿಸಲು ನೀವು ಬಯಸುವಿರಾ? 
+
+ಗಮನಿಸಿ: ದಯವಿಟ್ಟು ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಯನ್ನು ಕೆಳಗೆ ಹುಡುಕಿ:
+
+- ಇಂದು ಉಳಿದಿರುವ ಡೇಟಾ: 1.5 GB
+- ಯೋಜನೆಯ ಮಾನ್ಯತೆ: 28 ದಿನಗಳು",5.71
+2026-06-28 01:12:21,user_123,kn,ಟಿಕೆಟ್ ಐಡಿಯನ್ನು,"ನಿಮ್ಮ ವಿನಂತಿಯೊಂದಿಗೆ ನಾನು ನಿರ್ದಿಷ್ಟ ಟಿಕೆಟ್ ಐಡಿಯನ್ನು ಹೊಂದಿಲ್ಲ. ಆದಾಗ್ಯೂ, ನಾನು ಇನ್ನೂ ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು.
+
+ಲಭ್ಯವಿರುವ ಆಯ್ಕೆಗಳು ಇಲ್ಲಿವೆ:
+
+1. ಡೇಟಾ ಸಮತೋಲನವನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ
+2. ರೀಚಾರ್ಜ್ ಯೋಜನೆಗಳನ್ನು ತೋರಿಸಲಾಗುತ್ತಿದೆ
+3. ನೆಟ್ವರ್ಕ್ ದೂರುಗಳನ್ನು ಸಲ್ಲಿಸುವುದು
+4. ಬಿಲ್ಲಿಂಗ್ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಲಾಗುತ್ತಿದೆ
+5. ಮಾನವ ಬೆಂಬಲಕ್ಕೆ ಸಂಪರ್ಕಿಸಲಾಗುತ್ತಿದೆ
+
+ದಯವಿಟ್ಟು ಅದರ ಅನುಗುಣವಾದ ಸಂಖ್ಯೆಯನ್ನು ಟೈಪ್ ಮಾಡುವ ಮೂಲಕ ಆಯ್ಕೆಯನ್ನು ಆರಿಸಿ.",4.55
+2026-06-28 01:13:19,user_123,te,నమస్కారం,"నమస్తే పవన్. స్వాగతం! నేను TeleBot AIని, Airtel కోసం మీ టెలికాం అసిస్టెంట్. ఈరోజు నేను మీకు ఎలా సహాయం చేయగలను? దయచేసి దిగువ జాబితా నుండి ఒక ఎంపికను ఎంచుకోండి:
+
+1. డేటా బ్యాలెన్స్‌ని తనిఖీ చేస్తోంది
+2. రీఛార్జ్ ప్లాన్‌లను చూపుతోంది
+3. నెట్‌వర్క్ ఫిర్యాదులను దాఖలు చేయడం
+4. బిల్లింగ్ స్థితిని తనిఖీ చేస్తోంది
+5. మానవ మద్దతుకు కనెక్ట్ చేయడం
+
+దయచేసి మీరు ఇష్టపడే ఎంపిక సంఖ్యతో ప్రతిస్పందించండి లేదా మీకు ఇంకేదైనా అవసరమైతే 'ఏదైనా' అని టైప్ చేయండి.",4.81
+2026-06-28 01:14:04,user_123,hi,ना मेरे को इस महीने का बिल क्या आया है,"आपको इस महीने का बिल अभी तक नहीं मिला है. आपका वर्तमान बिल [सम्मिलित तिथि] को देय है और राशि ₹450.00 है। यदि आप भुगतान करना चाहते हैं या अपनी योजना में कोई बदलाव करना चाहते हैं, तो कृपया मुझे बताएं।",3.27
+2026-06-28 01:29:53,user_123,en,i have an issue with internet,"Shukriya, Pavan! I'm sorry to hear that you're experiencing issues with your Airtel internet connection. Can you please tell me a little more about the problem? Is it not turning on or is there no connectivity at all? Or are you facing some issues while browsing or streaming?",7.63
+2026-06-28 01:30:41,user_123,kn,ದಯವಿಟ್ಟು ನನ್ನ ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ಪರಿಶೀಲಿಸಿ,ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ದಿನಕ್ಕೆ 1.5 GB (2.0 GB ದೈನಂದಿನ ಮಿತಿಯಲ್ಲಿ) ಆಗಿದೆ. ನೀವು ಇಂದು ಸರಿಸುಮಾರು 0.5 GB ಬಳಸಿದ್ದೀರಿ. ದಿನದ ನಿಮ್ಮ ಉಳಿದ ಡೇಟಾ 1.0 GB ಆಗಿದೆ.,3.51
+2026-06-28 01:32:04,user_123,kn,ನನ್ನ ಡೇಟಾ ಆನ್ ಆಗುತ್ತಿದೆ ಆದರೆ ಯೂಸ್ ಮಾಡಲು ಆಗುತ್ತಿಲ್ಲ ಇದನ್ನು ಪರಿಶೀಲಿಸಿ,"ನಿಮ್ಮ ಡೇಟಾ ""ಆನ್"" ಎಂದು ತೋರಿಸಿದರೂ ಲಭ್ಯವಿಲ್ಲದಿರುವ ಸಮಸ್ಯೆಯ ಕುರಿತು ನಾನು ನಿಮಗೆ ಸಹಾಯ ಮಾಡಬಹುದು. ನೀವು ಎಷ್ಟು ಸಮಯದಿಂದ ಈ ಸಮಸ್ಯೆಯನ್ನು ಅನುಭವಿಸುತ್ತಿದ್ದೀರಿ ಎಂದು ದಯವಿಟ್ಟು ನನಗೆ ಹೇಳಬಲ್ಲಿರಾ? ಇದು ಸಂಭವಿಸಲು ಪ್ರಾರಂಭಿಸಿದಾಗ ನಿರ್ದಿಷ್ಟ ಸಮಯ ಅಥವಾ ಈವೆಂಟ್ ಇತ್ತು ಮತ್ತು ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ಅಥವಾ ಇತ್ತೀಚೆಗೆ ನಿಮ್ಮ ಏರ್‌ಟೆಲ್ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಯಾವುದೇ ನವೀಕರಣಗಳನ್ನು ಪರಿಶೀಲಿಸಲು ನೀವು ಪ್ರಯತ್ನಿಸಿದ್ದೀರಾ?",4.59
+2026-06-28 01:34:43,user_123,en,Check my data balance,Data balance for your ₹449 Recharge Plan is 1.5 GB remaining out of the daily limit of 2.0 GB. You have 27 days left on your plan validity. Would you like to know more about recharge plans or file a network complaint?,2.55
+2026-06-28 01:35:33,user_123,kn,Check my data balance,"ನಿಮ್ಮ ದೈನಂದಿನ ಡೇಟಾ ಮಿತಿಯು ದಿನಕ್ಕೆ 2.0 GB ಆಗಿದೆ, ಮತ್ತು ಇಂದಿನವರೆಗೆ ಲಭ್ಯವಿರುವ ಒಟ್ಟು ಮೊತ್ತದಲ್ಲಿ ನೀವು ಪ್ರಸ್ತುತ 1.5 GB ಉಳಿದಿರುವಿರಿ. ದಿನವಿಡೀ ನಿಮ್ಮ ಧ್ವನಿ ಮತ್ತು ಡೇಟಾ ಚಟುವಟಿಕೆಗಳಿಗೆ ಅನುಗುಣವಾಗಿ ಡೇಟಾ ಬಳಕೆಯನ್ನು ಕಡಿತಗೊಳಿಸಲಾಗುತ್ತದೆ.",3.42
+2026-06-28 01:36:22,user_123,kn,ನನಗೆ ಇಂಟರ್ನೆಟ್,"Aapka aayatan ₹449 ರೀಚಾರ್ಜ್ ಪ್ಲಾನ್ ಹೈ, ಜಿಸ್ಮೇನ್ 2GB ಡೇಟಾ ಮಿತಿ ಹೈ. ಆಜ್ ಆಪ್ಕೆ ಪಾಸ್ 1.5GB ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ಬಾನಿ ಹೈ. 
+
+ಕ್ಯಾ ಆಪ್ ಚಾಹ್ತೇ ಹೈನ್ ಕಿ ಮೈನ್ ಆಪ್ಕೋ ನಿಜಿ ಇಂಟರ್ನೆಟ್ ಪೆಹಚಾನ್ ಕೀ ಜನಕರಿ ಪ್ರದಾನ ಕರೋ ಯಾ ಫಿರ್ ಆಪ್ಕೋ ರೀಚಾರ್ಜ್ ಔರ್ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ಕೋ ದೇಖ್ನೆ ಕಾ ಮೌಕಾ ದೀನ್?",6.07
+2026-06-28 01:38:18,user_123,en,Check my data balance,Your current data balance is 1.5 GB out of the daily limit of 2.0 GB. You have 36.5 hours remaining before your daily data limit expires. Your total used data for this recharge plan is 0.5 GB.,2.59
+2026-06-28 01:39:49,user_123,en,Check my data balance,Aapka data balance abhi is din 1.5 GB hain (out of apne daayanik limit ke 2 GB). Aapko abhi kaam karne ke liye adhika data upyog karna padega.,2.50
+2026-06-28 01:40:30,user_123,en,check my current balance,Your current data balance is 1.5 GB out of your daily limit of 2.0 GB for the ₹449 recharge plan. You have 24 hours remaining before your data limit resets at the end of the day. Would you like to know about recharge plans or file a network complaint?,2.88
+2026-06-28 01:41:18,user_123,kn,ನನ್ನ ಬ್ಯಾಲೆನ್ಸ್ ಅನ್ನು ತಿಳಿಸಿ,"ನಿಮ್ಮ ₹449 ರೀಚಾರ್ಜ್ ಪ್ಲಾನ್ ಪ್ರಕಾರ, ಇಂದಿನ ಡೇಟಾ ಮಿತಿ 2.0 GB ಯಲ್ಲಿ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ 1.5 GB ಆಗಿದೆ.",4.14
+2026-06-28 01:42:23,user_123,kn,ನನ್ನ ಇಂಟರ್ನೆಟ್ ಕನೆಕ್ಟ್ ಆಗುತ್ತಿಲ್ಲ,"ಪವನ್, ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಸಂಪರ್ಕಗೊಳ್ಳುತ್ತಿಲ್ಲ ಎಂದು ಕೇಳಲು ಕ್ಷಮಿಸಿ. ದಯವಿಟ್ಟು ಸಮಸ್ಯೆಯ ಬಗ್ಗೆ ಸ್ವಲ್ಪ ಹೆಚ್ಚು ಹೇಳಬಹುದೇ? ಅದು ಯಾವಾಗ ಪ್ರಾರಂಭವಾಯಿತು ಮತ್ತು ನಿಮ್ಮ ರೂಟರ್ ಅಥವಾ ಮೋಡೆಮ್ ಅನ್ನು ಮರುಪ್ರಾರಂಭಿಸಲು ನೀವು ಪ್ರಯತ್ನಿಸಿದ್ದೀರಾ? ನೀವು ಸಮಸ್ಯೆ ಎದುರಿಸುತ್ತಿರುವಾಗ ಯಾವ ಸಾಧನಗಳನ್ನು ನೆಟ್‌ವರ್ಕ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆ?",4.77
+2026-06-28 01:44:17,user_123,te,నమస్కారం,"నమస్తే పవన్, ఈరోజు నేను మీకు ఎలా సహాయం చేయగలను?",2.03
+2026-06-28 01:44:42,user_123,hi,रिचार्ज प्लांस क्या क्या है थोड़ा बताओ,"यहां आपके लिए उपलब्ध रिचार्ज योजनाएं हैं:
+
+1. ₹299: 1GB/प्रतिदिन 28 दिनों के लिए
+2. ₹479: 1.5GB/दिन, 28 दिनों के लिए
+3. ₹719: 2GB/दिन, 28 दिनों के लिए
+4. ₹449 (आपका वर्तमान प्लान): 28 दिनों के लिए 2GB/दिन
+
+कृपया संबंधित नंबर टाइप करके एक योजना चुनें या उस योजना का वर्णन करें जिसमें आप रुचि रखते हैं, और मैं इसमें आपकी सहायता करूंगा।",6.87
+2026-09-07 22:00:49,test_user,en,"Hello, what is my remaining data balance?","Aapke paas abhi aaj ke din 1.5 GB data balance hai, jise aap 2.0 GB daily limit ke andar upyog kar sakte hain.",19.57
+2026-09-07 22:02:45,user_123,en,Check my data balance,"Aapke paas aajkal 1.5 GB data balance hai, jiska limit 2.0 GB/din hai.",5.50
+2026-09-07 22:03:14,user_123,en,Check my data balance,Your current data balance is 1.5 GB out of 2.0 GB daily limit. You have sufficient data for today. Would you like to recharge or check your recharge plan?,5.07
+2026-09-07 22:03:36,user_123,kn,Check my data balance,ನಿಮ್ಮ ಡೇಟಾ ಬ್ಯಾಲೆನ್ಸ್ ಪ್ರಸ್ತುತ ದಿನಕ್ಕೆ 2.0 GB ಯಲ್ಲಿ 1.5 GB ಆಗಿದೆ.,4.54

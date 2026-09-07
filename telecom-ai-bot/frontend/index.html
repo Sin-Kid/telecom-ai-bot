@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TeleBot AI — Multilingual Telecom Assistant</title>
+    <meta name="description" content="AI-powered multilingual telecom support assistant with voice capabilities">
+    <link rel="stylesheet" href="/static/style.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+    </style>
+</head>
+<body>
+    <!-- Animated background blobs -->
+    <div class="bg-blob blob-1"></div>
+    <div class="bg-blob blob-2"></div>
+    <div class="bg-blob blob-3"></div>
+
+    <!-- ─── Phone Onboarding Screen ─── -->
+    <div class="onboarding-overlay" id="onboardingOverlay">
+        <div class="onboarding-card">
+            <div class="onboarding-logo">
+                <span>📡</span>
+                <h1>TeleBot <span>AI</span></h1>
+            </div>
+            <p class="onboarding-subtitle">Your multilingual telecom assistant</p>
+
+            <div class="onboarding-form" id="onboardingForm">
+                <label for="phoneInput">Enter your registered mobile number</label>
+                <div class="phone-input-row">
+                    <span class="phone-prefix">+91</span>
+                    <input
+                        type="tel"
+                        id="phoneInput"
+                        maxlength="10"
+                        placeholder="10-digit mobile number"
+                        autocomplete="tel"
+                        inputmode="numeric"
+                    >
+                </div>
+                <button id="verifyPhoneBtn" class="verify-btn">
+                    Continue →
+                </button>
+                <p class="phone-error" id="phoneError"></p>
+            </div>
+
+            <div class="onboarding-success" id="onboardingSuccess" style="display:none;">
+                <div class="success-avatar">👤</div>
+                <h2 id="successName"></h2>
+                <p id="successOperator"></p>
+                <button id="startChatBtn" class="start-chat-btn">Start Chat 💬</button>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="app-container">
+        <!-- ─── Sidebar ─── -->
+        <aside class="sidebar">
+            <!-- Logo -->
+            <div class="logo">
+                <div class="logo-icon">📡</div>
+                <div class="logo-text">
+                    <span class="logo-name">TeleBot</span>
+                    <span class="logo-tag">AI</span>
+                </div>
+            </div>
+
+            <!-- Language Selector -->
+            <div class="sidebar-section">
+                <h3>Select Language</h3>
+                <div class="lang-grid" id="langGrid">
+                    <button class="lang-btn active" data-lang="en">🇬🇧 English</button>
+                    <button class="lang-btn" data-lang="hi">🇮🇳 हिंदी</button>
+                    <button class="lang-btn" data-lang="te">🏳 తెలుగు</button>
+                    <button class="lang-btn" data-lang="kn">🏳 ಕನ್ನಡ</button>
+                </div>
+            </div>
+
+
+            <!-- Live Call Mode (disabled)
+            <div class="sidebar-section">
+                <h3>Live Call Mode</h3>
+                <div class="call-simulator" id="callSimulator">
+                    <!- - Waveform visualizer - ->
+                    <div class="call-waveform" id="callWaveform">
+                        <span></span><span></span><span></span>
+                        <span></span><span></span><span></span>
+                        <span></span><span></span>
+                    </div>
+                    <div class="call-timer" id="callTimer">00:00</div>
+                    <div class="call-status" id="callStatus">Ready to talk</div>
+                    <div class="call-controls">
+                        <button id="startCallBtn" class="call-btn start">
+                            📞&nbsp; Start Call
+                        </button>
+                        <button id="endCallBtn" class="call-btn end" style="display:none;">
+                            🔴&nbsp; End Call
+                        </button>
+                    </div>
+                </div>
+            </div>
+            -->
+
+
+            <!-- Status -->
+            <div class="sidebar-footer">
+                <div class="status-badge">
+                    <span class="dot online"></span>
+                    <span>AI Assistant Online</span>
+                </div>
+                <div class="model-badge">Ollama · llama3.2</div>
+            </div>
+        </aside>
+
+        <!-- ─── Main Chat Area ─── -->
+        <main class="chat-main">
+            <!-- Header -->
+            <header class="chat-header">
+                <div class="user-info">
+                    <div class="avatar-container">
+                        <div class="avatar">
+                            <span>🤖</span>
+                        </div>
+                        <div class="voice-indicator" id="voiceIndicator"></div>
+                        <div class="online-dot"></div>
+                    </div>
+                    <div class="header-info">
+                        <h2>Telecom Assistant</h2>
+                        <p id="statusText">
+                            <span class="status-dot"></span>
+                            Multilingual Support Active
+                        </p>
+                    </div>
+                </div>
+                <div class="header-actions">
+                    <button id="clearChat" class="action-btn danger" title="Clear Chat">
+                        🗑
+                    </button>
+                </div>
+            </header>
+
+            <!-- Messages -->
+            <div class="messages-container" id="messagesContainer">
+                <!-- messages injected here by JS after phone verification -->
+            </div>
+
+            <!-- Footer -->
+            <footer class="chat-footer">
+                <!-- Quick Actions -->
+                <div class="quick-actions" id="quickActions">
+                    <button class="quick-action-btn" data-query="Check my data balance">
+                        📊 Balance
+                    </button>
+                    <button class="quick-action-btn" data-query="Show recharge plans">
+                        🔋 Recharge
+                    </button>
+                    <button class="quick-action-btn" data-query="Check my bill">
+                        🧾 Bill
+                    </button>
+                    <button class="quick-action-btn" data-query="I have an issue">
+                        ⚠️ Complaint
+                    </button>
+                    <button class="quick-action-btn" data-query="International roaming plans">
+                        🌐 Roaming
+                    </button>
+                </div>
+
+                <!-- Input Row -->
+                <div class="input-area">
+                    <button id="recordBtn" class="record-btn" title="Record Voice">
+                        🎙<span id="recordLang" class="record-lang-tag">EN</span>
+                    </button>
+                    <input
+                        type="text"
+                        id="userInput"
+                        placeholder="Type your message here..."
+                        autocomplete="off"
+                    >
+                    <button id="sendBtn" class="send-btn" title="Send">
+                        ➤
+                    </button>
+                </div>
+
+                <div class="footer-note">
+                    Powered by <strong>Indic-TTS</strong> (AI4Bharat) &amp; <strong>Ollama</strong> · 100% Offline
+                </div>
+            </footer>
+        </main>
+    </div>
+
+    <audio id="audioPlayer" hidden></audio>
+    <script src="/static/script.js"></script>
+</body>
+</html>

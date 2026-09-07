@@ -1,0 +1,20 @@
+Project: Telecom AI Bot
+
+Technologies & Stack:
+- Programming Language: Python
+- Framework: FastAPI (for building the backend API)
+- Server: Uvicorn (ASGI web server)
+- Environment Management: python-dotenv (.env configuration)
+- Data Validation: Pydantic
+- Audio Processing: soundfile (handling audio inputs/outputs)
+- Language Translation: deep-translator
+- External API Communication: requests
+- Data Handling: CSV (customer_reports.csv)
+
+Proposed Inputs/Outputs for the Paper:
+- Dataset: Telecom Customer Reports (customer_reports.csv)
+- Model/System: FastAPI-based AI Bot integrating translation and audio processing
+- Input Features: Customer text queries, voice inputs (audio files), language preferences.
+- Output Parameters: Translated text, audio responses, automated customer support resolutions.
+- Performance Metrics: Response latency, translation accuracy, API throughput, system resource utilization.
+- Software/Tools Used: Python, FastAPI, Deep-translator, Soundfile, Postman (for API testing).

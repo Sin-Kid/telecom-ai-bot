@@ -1,0 +1,101 @@
+# ============================================================================
+# TELECOM AI BOT - DEPENDENCIES
+# ============================================================================
+# Install with: pip install -r requirements.txt
+# ============================================================================
+
+# ============================================================================
+# CORE DEPENDENCIES
+# ============================================================================
+
+python-dotenv==1.0.0          # Load environment variables from .env
+requests==2.31.0              # HTTP library for API calls
+
+# ============================================================================
+# FASTAPI & WEB FRAMEWORK
+# ============================================================================
+
+fastapi==0.104.1              # Web framework for building APIs
+uvicorn==0.24.0               # ASGI server to run FastAPI
+pydantic==2.5.0               # Data validation using Python type hints
+python-multipart==0.0.6       # Support for multipart/form-data
+
+# ============================================================================
+# NLU & MACHINE LEARNING
+# ============================================================================
+
+rasa==3.5.0                   # Open source dialogue management framework
+rasa-sdk==3.5.0               # SDK for custom Rasa actions
+scikit-learn==1.3.2           # Machine learning utilities
+numpy==1.24.3                 # Numerical computing
+pandas==1.5.3                 # Data manipulation
+
+# ============================================================================
+# DATA PROCESSING
+# ============================================================================
+
+pyyaml==6.0                   # YAML parser for config files
+typing-extensions==4.8.0      # Type hints for older Python versions
+
+# ============================================================================
+# OPTIONAL BUT RECOMMENDED
+# ============================================================================
+
+# Uncomment if you want to add these features:
+
+# For audio processing
+# librosa==0.10.0             # Audio feature extraction
+# soundfile==0.12.1           # Sound file I/O
+# scipy==1.11.4               # Scientific computing
+
+# For advanced NLP
+# transformers==4.35.2        # Hugging Face transformers
+# torch==2.1.0                # PyTorch for deep learning
+# spacy==3.7.2                # Advanced NLP
+
+# For database
+# sqlalchemy==2.0.23          # ORM for database
+# alembic==1.13.0             # Database migrations
+
+# For testing
+# pytest==7.4.3               # Testing framework
+# pytest-asyncio==0.21.1      # Async test support
+
+# For monitoring
+# python-json-logger==2.0.7   # JSON logging
+
+# ============================================================================
+# INSTALLATION NOTES
+# ============================================================================
+
+# 1. Create virtual environment first:
+#    python -m venv venv
+#
+# 2. Activate virtual environment:
+#    Windows: venv\Scripts\activate
+#    Mac/Linux: source venv/bin/activate
+#
+# 3. Install requirements:
+#    pip install -r requirements.txt
+#
+# 4. This will take 5-10 minutes. Go grab coffee! ☕
+#
+# 5. Verify installation:
+#    pip list
+#
+# ============================================================================
+
+# TROUBLESHOOTING:
+#
+# If you get an error about "Microsoft C++ Build Tools":
+# - Windows: Install from https://visualstudio.microsoft.com/cpp-build-tools/
+# - This is needed for scikit-learn compilation
+#
+# If a package fails to install:
+# - Try: pip install --upgrade pip
+# - Try: pip install [package_name] --force-reinstall
+#
+# For Apple Silicon Macs:
+# - Some packages may need: pip install [package] --target arm64
+#
+# ============================================================================
